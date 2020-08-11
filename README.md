@@ -1,0 +1,2 @@
+# blog
+Comprender todo GIT
