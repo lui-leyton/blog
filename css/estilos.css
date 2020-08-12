@@ -13,6 +13,13 @@ body
     font-style: italic;
     margin: 10% 23% 25px 10% !important;
 }
+
+.relleno
+{
+    border: black 10px solid;
+    margin: 0 25% 
+}
+
 #cabecera
 {
     background: #33A;
