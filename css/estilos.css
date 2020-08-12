@@ -1,13 +1,18 @@
 body
 {
     color: blue;
+    background-color: aqua;
     text-align: center;
-    font-family: "Currier";
-    font-size: 16px;
+    font-family: "Arial";
+    font-size: 20px;
     margin: 0;
     padding: 0;
 }
-
+.importante
+{
+    font-style: italic;
+    margin: 10% 23% 25px 10% !important;
+}
 #cabecera
 {
     background: #33A;
