@@ -8,6 +8,12 @@ body
     padding: 0;
 }
 
+.relleno
+{
+    border: black 10px solid;
+    margin: 0 25% 
+}
+
 #cabecera
 {
     background: #33A;
